@@ -20,13 +20,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# ENTENDENDO A BÍBLIA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto é destinado para pessoas com dificuldade para entender a biblia, assim com imagens ilustrativas e imagens seriam de facil compreensão.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Avatar, ChatGPT e entre outros.
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
